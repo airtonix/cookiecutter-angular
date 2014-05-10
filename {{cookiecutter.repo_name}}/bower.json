@@ -1,0 +1,26 @@
+{
+  "name": "{{cookiecutter.repo_name}}",
+  "description": "{{cookiecutter.description}}",
+  "version": "0.0.1",
+  "license": "{{cookiecutter.license}}",
+  "homepage": "{{cookiecutter.home}}",
+  "authors": [
+    "{{cookiecutter.author_name}} <{{cookiecutter.author_email}}>"
+  ],
+  "keywords": [
+    "angular",
+    "{{cookiecutter.tags}}"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "lib/{{cookiecutter.repo_name}}.js",
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}

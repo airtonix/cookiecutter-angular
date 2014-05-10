@@ -1,0 +1,15 @@
+{
+    "project_name": "project_name",
+    "repo_name": "repo_name",
+    "repo": "git://github.com/something/someone.git",
+    "repo_type": "git",
+    "author_name": "You",
+    "author_email": "YourEmail",
+    "description": "A short description of the project.",
+    "year": "2014",
+    "license": "MIT",
+    "home": "http://github.com/someone/something",
+    "issues": "http://github.com/someone/something/issues",
+    "version": "0.1.0",
+    "tags": ""
+}
